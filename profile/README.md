@@ -18,5 +18,10 @@
 ## 🖥 서비스 DEMO
 
 
+## 🛢 ERD
+![ERD](https://github.com/matgyeojo/.github/assets/49816869/5bd77f79-5e7f-42a0-9ec4-ba73eb137428)
 
-## 👩‍👦‍👦"맡겨조"를 소개합니다 
+## 🎨 UI/UX
+![펫민_UI_UX](https://github.com/matgyeojo/.github/assets/49816869/8752a42d-ba0b-49e2-9618-e9ff4104433b)
+
+## 👩‍👦‍👦"맡겨조" 팀을 소개합니다 
