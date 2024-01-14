@@ -15,17 +15,11 @@
 |:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 |![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB) <br /> ![ReactRouter badge](https://img.shields.io/badge/-ReactRouter-%23F7DF1E?style=flat-square&logo=reactrouter&logoColor=black&color=CA4245)|![SpringBoot badge](https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)<br />|![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)|![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)<br/> ![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)|![S3 badge](https://img.shields.io/badge/-AmazonS3-%23F7DF1E?style=flat-square&logo=Amazons3&logoColor=white&color=569A31)|![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)<br/>![Junit5 badge](https://img.shields.io/badge/-junit5-%23F7DF1E?style=flat-square&logo=junit5&logoColor=white&color=25A162)<br />![Postman badge](https://img.shields.io/badge/-Postman-%23F7DF1E?style=flat-square&logo=postman&logoColor=white&color=FF6C37)|
 
-## 🖥 서비스 DEMO
-<!--
-|             펫시터 일정 등록              |                소셜 로그인                |        아이디 찾기, 비밀번호 찾기         |
-| :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-| <img src=https://i.imgur.com/M5o73ujh.gif> | <img src=https://i.imgur.com/eBGYJOS.gif> | <img src=https://i.imgur.com/XNYLOJ5.gif> |
--->
+## 🖥 서비스 주요 기능
+![펫시터 주요 기능](https://github.com/matgyeojo/.github/assets/49816869/c84996d5-316e-4844-bc53-0466bf107ed2)
 
 ## 🛢 ERD
 ![ERD](https://github.com/matgyeojo/.github/assets/49816869/5bd77f79-5e7f-42a0-9ec4-ba73eb137428)
 
 ## 🎨 UI/UX
 ![펫민_UI_UX](https://github.com/matgyeojo/.github/assets/49816869/8752a42d-ba0b-49e2-9618-e9ff4104433b)
-
-## 👩‍👦‍👦"맡겨조" 팀을 소개합니다 
